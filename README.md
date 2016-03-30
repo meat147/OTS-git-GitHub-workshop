@@ -5,7 +5,7 @@ This workshop will cover the basics of git and explain what GitHub is and how it
 
 # Links
 - git documentation https://git-scm.com/docs
-- OpenTechSchool Social Coding http://opentechschool.github.io/social-coding/
+- OpenTechSchool social coding http://opentechschool.github.io/social-coding/
 
 
 # More in depth information
